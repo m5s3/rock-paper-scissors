@@ -14,4 +14,6 @@ fun main(args: Array<String>) {
         println(computerChoice)
         println(player!!.play(computerChoice))
     }
+
+    println("test")
 }
